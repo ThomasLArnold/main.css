@@ -1,0 +1,33 @@
+/* main.css */
+
+/* For the body properties */
+body {
+    background-color: #f2f2f2; /* Set a background color you like */
+    color: #333; /* Set the text color you like */
+}
+
+/* For the nav properties */
+nav {
+    height: 6000px; /* Set to 6000px */
+    width: 200px; /* Set to 200px */
+    float: left; /* Set to left */
+    padding: 5px; /* Set to 5px */
+    line-height: 30px; /* Set to 30px */
+}
+
+/* For the footer properties */
+footer {
+    text-align: center; /* Set to center */
+    margin-right: 200px; /* Set to 200px */
+}
+
+/* For the #memeImage properties */
+#memeImage {
+    margin-right: 200px; /* Set to 200px */
+}
+
+/* For the header properties */
+header {
+    text-align: center; /* Set to center */
+}
+
